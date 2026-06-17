@@ -4,7 +4,7 @@
 This project was developed as part of Mission 3: Data Visualization & Dashboards under the VertexMind Data Analytics Internship. The objective of this project is to analyze retail sales data and create an interactive dashboard that provides meaningful business insights through effective data visualization.
 
 ## Interactive Dashboard
-🔗 [View Dashboard]((https://datastudio.google.com/reporting/4ef2a74d-8a10-49f7-be5a-8da84290083a))
+🔗 [View Retail Sales Dashboard](https://datastudio.google.com/reporting/4ef2a74d-8a10-49f7-be5a-8da84290083a)
 
 ## Tools Used
 - Google Looker Studio
